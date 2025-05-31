@@ -10,3 +10,5 @@ Usage of different files:
 * [Link analysis](link_analysis.py) calculates and plots the impact on the links
 
 All files require that one modified run with 150 iterations and a speed cap at 100 km/h is completed, and one unmodified run with 100 iterations is completed.
+
+The analysis of affected persons requires that the custom analysis Java class has calculated and saved the IDs of persons affected by the change.
